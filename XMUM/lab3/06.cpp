@@ -13,10 +13,8 @@ int main ()
     {
         cout<<" How many hours did u worked : ";
         cin>>hours;
-        if (hours==-1)
-        {
-            break;
-        }
+        if (hours==-1)break;
+        
         cout<<" What is your hourly rate : ";
         cin>>hrate;
         
